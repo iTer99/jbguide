@@ -10,32 +10,36 @@
 
 ---
 
-## Phần I): Tìm hiểu về Jailbreak
+## Phần I: Tìm hiểu về Jailbreak
 
-### Phần 1): Jailbreak là gì??
+### 1): Jailbreak là gì??
 
 Jailbreak là việc khai thác lỗ hổng trong iOS / iPadOS cho phép truy cập vào các phần của hệ thống mà Apple thường không cho phép và để cài đặt các chương trình, tinh chỉnh của bên thứ 3 không có trên App Store
 
 Jailbreak dựa trên các lỗ hổng khai được tìm thấy bởi các nhà nghiên cứu bảo mật iOS đã báo cáo các lỗi cho Apple, giú phần làm cho iOS và iPadOS an toàn hơn.
 
-### Phần 2): Mục đích của việc Jailbreak ?
+### 2): Mục đích của việc Jailbreak ?
 
 Jailbreak iOS có nhiều mục đích khác nhau. Tùy vào người muốn Jailbreak để làm gì.
 
 Phần lớn, người ta Jailbreak để tùy chỉnh thiết bị mà iOS không cho phép. Thực tế, đã nhiều tinh chỉnh Jailbreak trở thành ý tưởng cho các bản cập nhật iOS và iPadOS mới hơn (mặc dù Apple không thừa nhận điều đó).
 
-### Phần 3): Jailbreak có an toàn không ?
+### 3): Jailbreak có an toàn không ?
 
 Jailbreak một thiết bị iOS, bản thân nó, thường an toàn. Những gì bạn làm với bản Jailbreak sẽ xác định xem thiết bị của bạn có an toàn không. Thông thường, điều này có nghĩa là chỉ cài đặt repos và chỉnh sửa đáng tin cậy và thay đổi mật khẩu gốc trên thiết bị của bạn, vì vậy tin tặc gặp khó khăn hơn trong việc cố gắng hack điện thoại của bạn và đánh cắp dữ liệu của bạn. Hãy nghĩ về nó như bất kỳ máy tính khác.
 
-### Phần 4): Jailbreak có hợp pháp không ?
+### 4): Jailbreak có hợp pháp không ?
 
 Chính phủ Mỹ quyết định hợp pháp hóa việc bẻ khóa các loại điện thoại thông minh DMCA (2009). 
 
 **Lưu ý về vi phạm bản quyền, ngay cả khi sử dụng bản bẻ khóa, vẫn là bất hợp pháp**
 
-### Phần 5): Tôi đã nói về cái gọi là "Tweaks" và "Repos". Là gì ?
+### 5): Tôi đã nói về cái gọi là "Tweaks" và "Repos". Là gì ?
 
 Khi bạn Jailbreak thiết bị của mình, một ứng dụng mới sẽ được cài đặt; một trình quản lý gói được gọi là Cydia (Cydia là tên loài bướm sử dụng táo làm thức ăn cho nó). Hãy nghĩ là nó như một cửa hàng ứng dụng (App Store) thì Cydia cho phép bạn tải xuống những tinh chỉnh (tweaks), các ứng dụng được phát triển để thay đổi toàn hệ thống và tất cả được lưu trữ trong một kho (gọi là Repository).  Một số tinh chỉnh là miễn phí, có một số bạn phải trả tiền giống như bất kì phần mềm nào khác.
 
 ---
+
+## Phần II: Các loại Jailbreaks
+
+Có nhiều loại Jailbreak, mỗi loại Jailbreak được làm việc theo những cách khác nhau.
