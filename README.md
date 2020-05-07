@@ -53,7 +53,7 @@ Tethered|Loại jailbreak này yêu cầu cài đặt firmware* tùy chỉnh cho
 Semi-tethered|Loại jailbreak này yêu cầu máy tính khởi động thiết bị để jailbreak, nhưng thiết bị sẽ mất jailbreak nếu không có máy tính; **Hiện tại đã có semi-tethered jailbreak**
 Semi-untethered|**Đây là loại jailbreak phổ biến nhất hiện nay** Loại jailbreak này đưa một ứng dụng vào thiết bị của bạn và jailbreak từ ứng dụng đó. Jailbreak sẽ bị mất nếu thiết bị khởi động lại, trong trường hợp đó người dùng có thể re-jailbreak lại từ ứng dụng đó
 
-* Firmware là các file .ipsw mà người hay dùng để Restore - chạy lại chương trình cho thiết bị iOS 
+* *firmware là các file .ipsw mà người ta hay dùng để Restore - chạy lại chương trình cho thiết bị iOS 
 
 ## Phần III: Lựa chọn công cụ Jailbreak của bạn
 
