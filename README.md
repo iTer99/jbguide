@@ -23,21 +23,21 @@ Jailbreak dựa trên các lỗ hổng khai được tìm thấy bởi các nhà
 
 Jailbreak iOS có nhiều mục đích khác nhau. Tùy vào người muốn Jailbreak để làm gì.
 
-Phần lớn, người ta Jailbreak để tùy chỉnh thiết bị mà iOS không cho phép. Thực tế, đã nhiều tinh chỉnh Jailbreak trở thành ý tưởng cho các bản cập nhật iOS và iPadOS mới hơn (mặc dù Apple không thừa nhận điều đó).
+Phần lớn, người dùng Jailbreak thiết bị của họ để tùy chỉnh những tính năng mà iOS không cho phép. Thực tế, đã có nhiều tinh chỉnh Jailbreak trở thành ý tưởng cho các bản cập nhật iOS và iPadOS mới hơn (mặc dù Apple không thừa nhận điều đó).
 
 ### 3) Jailbreak có an toàn không ?
 
-Jailbreak một thiết bị iOS, bản thân nó, thường an toàn. Những gì bạn làm với bản Jailbreak sẽ xác định xem thiết bị của bạn có an toàn không. Thông thường, điều này có nghĩa là chỉ cài đặt repos và chỉnh sửa đáng tin cậy và thay đổi mật khẩu gốc trên thiết bị của bạn, vì vậy tin tặc gặp khó khăn hơn trong việc cố gắng hack điện thoại của bạn và đánh cắp dữ liệu của bạn. Hãy nghĩ về nó như bất kỳ máy tính khác.
+Jailbreak một thiết bị iOS cơ bản là nó vẫn an toàn. Những gì bạn làm sau khi Jailbreak sẽ xác định xem thiết bị của bạn có còn an toàn không. Thông thường người dùng Jailbreak chỉ là cài đặt những Repos và những bản Tweaks đáng tin cậy. Quản lí truy xuất tệp tin trong hệ thống của máy. Mở một thế giới trong môi trường iOS cũng giống như cách mà Android và Windows cho phép. Jailbreak hoàn toàn không ảnh hưởng đến Dịch vụ vị trí GPS, tìm và định vị iPhone của bạn, mật khẩu, Touch ID hay Face ID và những chức năng khác của máy. Nên nó vẫn giữ được an toàn theo cách mà iOS đã làm.
 
 ### 4) Jailbreak có hợp pháp không ?
 
-Chính phủ Mỹ quyết định hợp pháp hóa việc bẻ khóa các loại điện thoại thông minh DMCA (2009). 
+Chính phủ Mỹ quyết định hợp pháp hóa việc bẻ khóa các loại điện thoại thông minh DMCA năm 2009. 
 
 **Lưu ý về vi phạm bản quyền, ngay cả khi sử dụng bản bẻ khóa, vẫn là bất hợp pháp**
 
 ### 5) Tôi đã nói về cái gọi là "Tweaks" và "Repos", nó là gì ?
 
-Khi bạn Jailbreak thiết bị của mình, một ứng dụng mới sẽ được cài đặt; một trình quản lý gói được gọi là Cydia (Cydia là tên loài bướm sử dụng táo làm thức ăn cho nó). Hãy nghĩ là nó như một cửa hàng ứng dụng App Store thì Cydia cho phép bạn tải xuống những tinh chỉnh (tweaks), thay đổi giao diện (themes) và các ứng dụng được mà người ta  phát triển để thay đổi hệ thống. Tất cả được lưu trữ trong một kho (gọi là Repository).  Một số tinh chỉnh là miễn phí, có một số bạn phải trả tiền giống như bất kì phần mềm nào khác.
+Khi bạn Jailbreak thiết bị của mình, một ứng dụng mới sẽ được cài đặt; một trình quản lý gói được gọi là Cydia (Cydia là tên loài bướm sử dụng táo làm thức ăn cho nó). Hãy nghĩ là nó như một cửa hàng ứng dụng App Store thì Cydia cho phép bạn tải xuống những tinh chỉnh (Tweaks), thay đổi giao diện (Themes) và các ứng dụng được mà người ta  phát triển để thay đổi hệ thống. Tất cả được lưu trữ trong một kho (gọi là Repository).  Một số tinh chỉnh là miễn phí, có một số bạn phải trả tiền giống như bất kì phần mềm nào khác.
 
 ---
 
