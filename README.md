@@ -1,12 +1,12 @@
 # Hướng dẫn Jailbreak cho người mới bắt đầu
 
-> Soạn bởi Anden Wieseler
+> Biên soạn bởi Anden [Wieseler](https://github.com/JoeMcRainbow)
 
-> Phiên dịch bởi Nguyễn Thiện Hoàn (iTer99)
+> Phiên dịch và chỉnh sửa bởi [Nguyễn Thiện Hoàn](https://github.com/iTer99)
 
 **Lưu ý trước khi bạn bắt đầu:**
 * **_Nếu đây là lần đầu tiên bạn Jailbreak, hãy đảm bảo thực hiện theo hướng dẫn này một cách thật chính xác để ngăn các sự cố có thể phát sinh_**
-* **_Nếu bạn Jailbreak điện thoại, tôi không chắc sẽ mất bảo hành (hãy đọc phần hướng dẫn gỡ bỏ Jailbreak_**
+* **_Nếu bạn Jailbreak điện thoại, tôi không chắc sẽ mất bảo hành (hãy đọc phần X)_**
 * **_Tôi không chịu trách nhiệm cho bất kỳ vấn đề phát sinh từ việc Jailbreak thiết bị của bạn. Thiết bị của bạn là trách nhiệm của bạn. Nhưng tôi có thể hỗ trợ trong khả năng mà tôi có thể giúp đỡ bạn_**
 
 ---
@@ -97,7 +97,7 @@ Trước khi bạn bắt đầu, bạn sẽ cần những thứ sau đây:
 
 **_Lưu ý: Với MacOS Catalina: iTunes đã bị xóa khỏi MacOS Catalina. Chỉ cần bỏ qua bước này_**
 
-* Tải về và cài đặt (AltStore)[https://altstore.io] trên máy tính của bạn.
+* Tải về và cài đặt [AltStore](https://altstore.io) trên máy tính của bạn.
 
 ---
 
@@ -117,17 +117,17 @@ Mở Terminal và chạy các lệnh như sau
 
 `sudo apt update && sudo apt upgrade` để đảm bảo các gói của bạn được cập nhật.
 
-`echo "deb https://assets.checkra.in/debian/" | sudo tee -a /etc/apt/sources.list` để thêm repo APT Checkra1n.
+`echo "https://assets.checkra.in/debian/" | sudo tee -a /etc/apt/sources.list` để thêm repo APT Checkra1n.
 
 `sudo apt-key adv --fetch-keys https://assets.checkra.in/debian/archive.key` để thêm khóa công khai.
 
 `sudo apt update` để làm mới danh sách gói của bạn.
 
-`sudo apt install checkra1n` để cài đặt ứng dụng checkra1n.
+`sudo apt install checkra1n` để cài đặt ứng dụng Checkra1n.
 
 ### 2) Cài đặt Unc0ver
 
-Cài đặt Unc0ver tương tự cho cả macOS và Windows.
+Cài đặt Unc0ver tương tự cho cả MacOS và Windows.
 
 1. Cài đặt AltServer trên máy tính của bạn bằng cách xem các hướng dẫn tại https://altstore.io/faq
 2. Khi AltStore được cài đặt trên thiết bị của bạn, hãy cắm thiết bị vào máy tính
@@ -143,7 +143,7 @@ Cài đặt Unc0ver tương tự cho cả macOS và Windows.
 
 ## Phần VI: Jailbreaking
 
-### 1) Jailbreak trên checkra1n
+### 1) Jailbreak trên Checkra1n
 
 1. Mở ứng dụng Checkra1n trên máy tính của bạn
 2. Kết nối thiết bị của bạn với máy tính
@@ -175,3 +175,126 @@ Bỏ qua phần tiếp theo để biết thông tin về những việc cần l�
 **_Lưu ý: Bạn sẽ phải mở ứng dụng un0ver và Jailbreak lại mỗi khi thiết bị khởi động lại_**
 
 ---
+
+## Phần VII: Vài lưu ý khi bạn đã hoàn tất các quá trình Jailbreak
+
+Chúc mừng! Bạn đã hoàn tất quá trình Jailbreak lần đầu tiên của bạn!
+
+* Không được cập nhật phiên bản iOS của bạn mà không xóa bỏ bản Jailbreak của bạn trước! (xem phần IX hướng dẫn gỡ bỏ Jailbreak)
+
+* Với Unc0ver: hãy nhớ làm mới ứng dụng của bạn sau mỗi 7 ngày một lần!
+
+* Hãy nhớ áp dụng lại Jailbreak của bạn sau mỗi lần khởi động lại!
+
+## Phần VIII: Làm gì tiếp theo
+
+### 1) Repos, Tweaks và Themes
+
+**Để thêm nguồn vào Cydia:**
+
+1. Mở Cydia
+2. Chuyển đến tab Các Nguồn
+3. Nhấn nút Sửa ở trên bên phải
+4. Nhấn nút Thêm sẽ hiện ra ở trên bên trái
+5. Nhập URL của repo mà bạn muốn thêm và nhấn "Thêm nguồn"
+
+**Dưới đây là các tinh chỉnh tôi giới thiệu**
+
+Tinh chỉnh|Nhà phát triển|Repo|Thanh toán
+---|---|---|---
+SnowBoard|SparkDev|sparkdev.me|Miễn phí
+HomePlus Beta|Kritanta|repo.openpack.io|Miễn phí
+Xen HTML|Matchstic|repo.packix.com|Miễn phí
+XenInfo|JunesiPhone|junesiphone.com/supersecret|Miễn phí
+Complications|Ben Giannis|repo.packix.com|$1.99
+Axon|Nepeta & Baw Appie|repo.rpgfarm.com|Miễn phí
+Jellyfish|Justin Proulx & Ayden Panhuyzen|repo.dynastic.co|$1.99
+Prysm|LaughingQuoll|repo.packix.com|$3.49
+Ultrasound|Ayden Panhuyzen|repo.dynastic.co|$1.99
+
+**Dưới đây là một số Repos nổi tiếng tôi sưu tầm được:**
+
+https://getzbra.com/repo/ Zebra cũng giống như Cydia nhưng nó mới hơn
+https://apt.bingner.com/ kho không thể thiếu liên quan với cách vận hành của các tweaks
+https://sparkdev.me/ SnowBoard tinh chỉnh dùng để thay đổi Themes cho máy
+http://getdelta.co/ Flex 3 beta có những bản vá để lượt bỏ hoặc thêm vài thành phần cho ứng dụng và hệ thống
+http://tigisoftware.com/cydia/ Filza File Manager quản lí tệp tin hệ thống
+https://apptapp.me/repo/ Installer5 cũng giống như Zebra thay thế cho Cydia
+https://altstore.pixelomer.com/ AltStore và một vài ứng dụng khá là hay ho
+https://repo.pixelomer.com/ MobileGoose có con vịt chạy khắp màn hình
+https://cokepokes.github.io/ AppStore++ tăng/hạ cấp ứng dụng trong App Store
+https://cydia.akemi.ai/ AppSync Unified cài đặt file IPA không được đăng kí 
+https://rpetri.ch/repo/ một trong những Repos không thể thiếu như AppList, RocketBootstrap, Activator...
+https://repo.dynastic.co/ có những Tweaks và Theme cực xịn
+https://alexpng.github.io/ cách tinh chỉnh đổi hình nên theo giao diện Sáng và Tồi
+https://repo.packix.com/ có những Tweaks và Theme cực xịn
+https://ib-soft.net/cydia/beta/ iCleaner Pro quét rác, temp, tập tin dư thừa trong máy
+https://skitty.xyz/repo/ Six (LS) màn hình khóa iOS 6 và một vài tinh tỉnh cũng hay ho
+https://repo.chariz.com/ có những Tweaks cực xịn
+https://opa334.github.io/ CCSupport tùy chỉnh công tắt trong Control Center (trung tâm điều khiển)
+http://apt.thebigboss.org/repofiles/cydia/ Repos huyền thoại cho toàn thế hệ iOS Jailbreak
+https://repo.twickd.com/ có những Tweaks và Theme cực xịn
+https://www.yourepo.com/ một trong các Repos lớn bây giờ
+https://cydiageek.yourepo.com/ có các tinh chỉnh nhỏ
+http://repo.litten.love/ một trong Repos tôi yêu thích
+
+**Khả năng tương thích tinh chỉnh khác nhau tùy theo thiết bị và phiên bản iOS. Đặc biệt là với iPad_**
+
+## Phần IX: Gỡ bỏ Jailbreak của bạn một cách an toàn
+
+### 1) Xóa bản Jailbreak đối với Checkra1n
+
+1. Hãy chắc chắn rằng bạn đã Jailbreak bằng má tính và có Checkra1n trong máy
+2. Mở Checkra1n trong màn hình chính của bạn
+3. Nhấn nút Restore System
+4. Đợi quá trình hoàn tất
+5. Thiết bị của bạn sẽ tự khởi động lại
+6. Hoàn tất
+
+### 2) Loại bỏ jailbreak đối với Un0ver
+
+1. Khởi động lại để vào lại trạng thái không Jailbreak
+2. Mở ứng dụng Unc0ver
+3. Nhấn vào biểu tượng cài đặt
+4. Bật dòng "Restore RootFS"
+5. Quay trở lại màn hình Jailbreak
+6. Nhấn nút "Restore RootFS" ở phía dưới
+7. Một thông báo sẽ hiện lên The filesystem will be restored. Allow this and continue.
+8. Khi quá trình hoàn tất, bạn sẽ được yêu cầu khởi động lại thiết bị của mình. Hãy bấm OK.
+9. Sau khi thiết bị đã được khởi động lại, hãy xóa các ứng dụng Unc0ver và AltStore.
+
+## Phần X: Làm gì nếu điện thoại bạn gặp vấn đề hoặc cần bảo hành
+
+### 1) Nếu điện thoại của bạn gặp phải vấn đề do Jailbreak
+
+**_Hướng dẫn Restore cho thiết bị của bạn về nguyên trạng như ban đầu_**
+
+1. Trên máy tính cài đặt iTunes và [3uTools](http://www.3u.com/)
+2. Mở 3uTools và kết nối thiết bị với máy tính
+3. Cho phép Tin cậy trên thiết bị của bạn và nhập mật khẩu (nếu có)
+4. Trong 3uTools chuyển sang tab Flash & JB
+5. Chọn phiên bản iOS mới nhất, tránh các phiên bản beta
+6. Chắc chắn là đã tích xanh vào dòng Quick Flash Mode
+7. Sau đó chỉ việc nhấn vào Flash
+8. Để 3uTools hoàn thành các quá trình bao gồm tự động tải xuống file .ipsw (có thể mất 30p tùy vào tốc độ internet của bạn)
+9. Điện thoại trở về màn hình Hello
+10. Hoàn tất các thiết lập và đăng nhập vào ID Apple
+11. Tải xuống xuống các ứng dụng từ App Store mà bạn cần
+
+### 2) Nếu điện thoại của bạn cần được bảo hành
+
+**_Cách để đối phó để không bị phát hiện thiết bị bạn đã Jailbreak_**
+
+Thực hiện theo các cách Restore như trên nếu điện thoại vẫn có khả năng sử dụng được cảm ứng, cổng kết nối và các chức năng không ảnh hưởng quá trình Restore.
+
+Nếu bạn gửi thiết bị của bạn đến trung tâm bản hành như Apple, FPT, TGDĐ các Chuyên gia sửa chữa có thể phát hiện thiết bị của bạn đã được Jailbreak họ có thể sửa chữa nó nhưng bạn có thể phải trả phí bảo hành.
+
+## Phần XI: Kết thúc
+
+Nếu bạn đọc tất cả những điều này, rất vui bạn đã dành thời gian để tìm hiểu về Jailbreak!
+
+Bạn gặp các vấn đề về Jailbreak. Đừng lo lắng, hãy nói tôi biết điều đó, tôi có thể giúp bạn trong khả năng mà tôi có thể làm. À mà r/Jailbreak cũng là lựa chọn tốt đấy.
+
+Để tìm hiểu thêm về các tweaks và theems , hãy xem r/iOSTheme trên Reddit.
+
+> Nguyễn Thiện Hoàn
