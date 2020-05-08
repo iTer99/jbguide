@@ -215,30 +215,53 @@ Ultrasound|Ayden Panhuyzen|repo.dynastic.co|$1.99
 **Dưới đây là một số Repos nổi tiếng tôi sưu tầm được:**
 
 https://getzbra.com/repo/ Zebra cũng giống như Cydia nhưng nó mới hơn
+
 https://apt.bingner.com/ kho không thể thiếu liên quan với cách vận hành của các tweaks
+
 https://sparkdev.me/ SnowBoard tinh chỉnh dùng để thay đổi Themes cho máy
+
 http://getdelta.co/ Flex 3 beta có những bản vá để lượt bỏ hoặc thêm vài thành phần cho ứng dụng và hệ thống
+
 http://tigisoftware.com/cydia/ Filza File Manager quản lí tệp tin hệ thống
+
 https://apptapp.me/repo/ Installer5 cũng giống như Zebra thay thế cho Cydia
+
 https://altstore.pixelomer.com/ AltStore và một vài ứng dụng khá là hay ho
+
 https://repo.pixelomer.com/ MobileGoose có con vịt chạy khắp màn hình
+
 https://cokepokes.github.io/ AppStore++ tăng/hạ cấp ứng dụng trong App Store
+
 https://cydia.akemi.ai/ AppSync Unified cài đặt file IPA không được đăng kí 
+
 https://rpetri.ch/repo/ một trong những Repos không thể thiếu như AppList, RocketBootstrap, Activator...
+
 https://repo.dynastic.co/ có những Tweaks và Theme cực xịn
+
 https://alexpng.github.io/ cách tinh chỉnh đổi hình nên theo giao diện Sáng và Tồi
+
 https://repo.packix.com/ có những Tweaks và Theme cực xịn
+
 https://ib-soft.net/cydia/beta/ iCleaner Pro quét rác, temp, tập tin dư thừa trong máy
+
 https://skitty.xyz/repo/ Six (LS) màn hình khóa iOS 6 và một vài tinh tỉnh cũng hay ho
+
 https://repo.chariz.com/ có những Tweaks cực xịn
+
 https://opa334.github.io/ CCSupport tùy chỉnh công tắt trong Control Center (trung tâm điều khiển)
+
 http://apt.thebigboss.org/repofiles/cydia/ Repos huyền thoại cho toàn thế hệ iOS Jailbreak
+
 https://repo.twickd.com/ có những Tweaks và Theme cực xịn
+
 https://www.yourepo.com/ một trong các Repos lớn bây giờ
+
 https://cydiageek.yourepo.com/ có các tinh chỉnh nhỏ
+
 http://repo.litten.love/ một trong Repos tôi yêu thích
 
-**Khả năng tương thích tinh chỉnh khác nhau tùy theo thiết bị và phiên bản iOS. Đặc biệt là với iPad_**
+
+**Khả năng tương thích các tweak khác nhau tùy theo thiết bị và phiên bản iOS. Đặc biệt là với iPad_**
 
 ## Phần IX: Gỡ bỏ Jailbreak của bạn một cách an toàn
 
