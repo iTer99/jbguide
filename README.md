@@ -90,7 +90,7 @@ Trước khi bạn bắt đầu, bạn sẽ cần những thứ sau đây:
 
 **_Lưu ý: Với Linux hãy bỏ qua phần này. Tôi sẽ giải thích cách sử dụng Checkra1n trong phần tiếp theo_**
 
-Đối với Unc0ver::
+Đối với Unc0ver:
 * Yêu cầu iTunes, nếu bạn chưa cài đặt hãy cài đặt iTunes từ https://www.apple.com/itunes
 
 **_Lưu ý: Với Windows: Đảm bảo bạn tải xuống phiên bản .exe, không phải phiên bản trên Microsoft Store_**
