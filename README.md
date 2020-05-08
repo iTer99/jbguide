@@ -15,7 +15,7 @@
 
 ### 1) Jailbreak là gì ?
 
-Jailbreak là việc khai thác lỗ hổng trong iOS / iPadOS cho phép truy cập vào các phần của hệ thống mà Apple thường không cho phép và để cài đặt các chương trình, tinh chỉnh của bên thứ 3 không có trên App Store
+Jailbreak là việc khai thác lỗ hổng có trong iOS / iPadOS cho phép truy cập vào các phần của hệ thống mà Apple thường không cho phép và cài đặt các chương trình, tinh chỉnh của bên thứ 3 không có trên App Store.
 
 Jailbreak dựa trên các lỗ hổng khai được tìm thấy bởi các nhà nghiên cứu bảo mật iOS đã báo cáo các lỗi cho Apple, giúp phần làm cho iOS và iPadOS an toàn hơn.
 
