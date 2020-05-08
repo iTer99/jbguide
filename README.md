@@ -1,6 +1,6 @@
 # Hướng dẫn Jailbreak cho người mới bắt đầu
 
-> Biên soạn bởi Anden [Wieseler](https://github.com/JoeMcRainbow)
+> Biên soạn bởi [Anden Wieseler](https://github.com/JoeMcRainbow)
 
 > Phiên dịch và chỉnh sửa bởi [Nguyễn Thiện Hoàn](https://github.com/iTer99)
 
@@ -17,7 +17,7 @@
 
 Jailbreak là việc khai thác lỗ hổng trong iOS / iPadOS cho phép truy cập vào các phần của hệ thống mà Apple thường không cho phép và để cài đặt các chương trình, tinh chỉnh của bên thứ 3 không có trên App Store
 
-Jailbreak dựa trên các lỗ hổng khai được tìm thấy bởi các nhà nghiên cứu bảo mật iOS đã báo cáo các lỗi cho Apple, giú phần làm cho iOS và iPadOS an toàn hơn.
+Jailbreak dựa trên các lỗ hổng khai được tìm thấy bởi các nhà nghiên cứu bảo mật iOS đã báo cáo các lỗi cho Apple, giúp phần làm cho iOS và iPadOS an toàn hơn.
 
 ### 2) Mục đích của việc Jailbreak ?
 
@@ -37,7 +37,7 @@ Chính phủ Mỹ quyết định hợp pháp hóa việc bẻ khóa các loại
 
 ### 5) Tôi đã nói về cái gọi là "Tweaks" và "Repos", nó là gì ?
 
-Khi bạn Jailbreak thiết bị của mình, một ứng dụng mới sẽ được cài đặt; một trình quản lý gói được gọi là Cydia (Cydia là tên loài bướm sử dụng táo làm thức ăn cho nó). Hãy nghĩ là nó như một cửa hàng ứng dụng (App Store) thì Cydia cho phép bạn tải xuống những tinh chỉnh (tweaks), các ứng dụng được phát triển để thay đổi toàn hệ thống và tất cả được lưu trữ trong một kho (gọi là Repository).  Một số tinh chỉnh là miễn phí, có một số bạn phải trả tiền giống như bất kì phần mềm nào khác.
+Khi bạn Jailbreak thiết bị của mình, một ứng dụng mới sẽ được cài đặt; một trình quản lý gói được gọi là Cydia (Cydia là tên loài bướm sử dụng táo làm thức ăn cho nó). Hãy nghĩ là nó như một cửa hàng ứng dụng App Store thì Cydia cho phép bạn tải xuống những tinh chỉnh (tweaks), thay đổi giao diện (themes) và các ứng dụng được mà người ta  phát triển để thay đổi hệ thống. Tất cả được lưu trữ trong một kho (gọi là Repository).  Một số tinh chỉnh là miễn phí, có một số bạn phải trả tiền giống như bất kì phần mềm nào khác.
 
 ---
 
@@ -47,11 +47,11 @@ Có nhiều loại Jailbreaks, mỗi loại Jailbreak mang ý nghĩa khác nhau.
 
 Các loại Jailbreaks|Ý Nghĩa
 ---|---
-Untethered|Loại jailbreak này được thực hiện từ máy tính, jailbreak vẫn được giữ nguyên sau những lần khởi động lại thiết bị; **Không còn phổ biến nữa**
-Psuedo-untethered|Loại jailbreak này đưa một ứng dụng vào thiết bị của bạn và jailbreak từ ứng dụng đó, sau đó cài đặt gói cho phép bạn chạy jailbreak mỗi khi thiết bị được khởi động; **Không được phổ biến lắm**
-Tethered|Loại jailbreak này yêu cầu cài đặt firmware* tùy chỉnh cho thiết bị và sử dụng máy tính để khởi động thiết bị; **Loại bẻ khóa này không còn phổ biến nữa**
-Semi-tethered|Loại jailbreak này yêu cầu máy tính khởi động thiết bị để jailbreak, nhưng thiết bị sẽ mất jailbreak nếu không có máy tính; **Hiện tại đã có semi-tethered jailbreak**
-Semi-untethered|**Đây là loại jailbreak phổ biến nhất hiện nay** Loại jailbreak này đưa một ứng dụng vào thiết bị của bạn và jailbreak từ ứng dụng đó. Jailbreak sẽ bị mất nếu thiết bị khởi động lại, trong trường hợp đó người dùng có thể re-jailbreak lại từ ứng dụng đó
+Untethered|Loại Jailbreak này được thực hiện từ máy tính, Jailbreak vẫn được giữ nguyên sau những lần khởi động lại thiết bị; **Không còn phổ biến nữa**
+Psuedo-untethered|Loại Jailbreak này đưa một ứng dụng vào thiết bị của bạn và Jailbreak từ ứng dụng đó, sau đó cài đặt gói cho phép bạn chạy Jailbreak mỗi khi thiết bị được khởi động; **Không được phổ biến lắm**
+Tethered|Loại Jailbreak này yêu cầu cài đặt firmware* tùy chỉnh cho thiết bị và sử dụng máy tính để khởi động thiết bị; **Loại bẻ khóa này không còn phổ biến nữa**
+Semi-tethered|Loại Jailbreak này yêu cầu máy tính khởi động thiết bị để Jailbreak, nhưng thiết bị sẽ mất Jailbreak nếu không có máy tính; **Hiện tại đã có semi-tethered Jailbreak**
+Semi-untethered|**Đây là loại Jailbreak phổ biến nhất hiện nay** Loại Jailbreak này đưa một ứng dụng vào thiết bị của bạn và Jailbreak từ ứng dụng đó. Jailbreak sẽ bị mất nếu thiết bị khởi động lại, trong trường hợp đó người dùng có thể re-Jailbreak lại từ ứng dụng đó
 
 * *firmware là các file .ipsw mà người ta hay dùng để Restore - chạy lại chương trình cho thiết bị iOS 
 
@@ -63,7 +63,7 @@ Dưới đây là tôi đang nói về iOS 13. Hãy đọc qua và lựa chọn 
 
 **_Lưu ý: Nếu thiết bị của bạn không thể Jailbreak, hãy chắc chắn đã tắt Cập nhật tự động trong Cài đặt và KHÔNG Cập nhật phiên bản iOS của bạn_**
 
-**_Các bản iOS mới nhất không có nghĩa là đã có thể Jailbreak được ngay, có thể mất vài tháng để phát hành công cụ Jailbreak. Và Jailbreak không dành cho người không thể chờ đợi.
+**_Các bản iOS mới nhất không có nghĩa là đã có thể Jailbreak được ngay, có thể mất vài tháng để phát hành công cụ Jailbreak. Và Jailbreak không dành cho người không thể chờ đợi_**
 
 Checkra1n|Unc0ver
 ---|---
@@ -73,7 +73,7 @@ Hỗ trợ iOS/iPadOS phiên bản iOS 12.3 và mới hơn|Hỗ trợ iOS/iPadOS
 Hỗ trợ macOS và Linux|Yêu cầu AltStore, Hỗ trợ Windows 10 và MacOS 10.14.4+
 Đang tích cực phát triển|Đang tích cực phát triển
 
-**_Xem toàn bộ công cụ Jailbreak với các phiên bản iOS tại [đây](https://www.reddit.com/r/jailbreak/wiki/escapeplan/guides/jailbreakcharts)._**
+**_Xem toàn bộ công cụ Jailbreak với các phiên bản iOS tại [đây](https://www.reddit.com/r/Jailbreak/wiki/escapeplan/guides/Jailbreakcharts)._**
 
 ---
 
@@ -86,7 +86,7 @@ Trước khi bạn bắt đầu, bạn sẽ cần những thứ sau đây:
 * Cáp sạc hỗ trợ truyền dữ liệu (không phải những loại cáp 7 màu, có đèn chỗ đầu kết nối
 * Thứ không thiếu là một kết nối mạng
 
-Đối với Checkra1n, hãy truy cập https://checkra.in và tải xuống phiên bản mới nhất của checkra1n
+Đối với Checkra1n, hãy truy cập https://checkra.in và tải xuống phiên bản mới nhất của Checkra1n
 
 **_Lưu ý: Với Linux hãy bỏ qua phần này. Tôi sẽ giải thích cách sử dụng Checkra1n trong phần tiếp theo_**
 
@@ -107,11 +107,11 @@ Trước khi bạn bắt đầu, bạn sẽ cần những thứ sau đây:
 
 Để đơn giản hơn tôi sẽ chia phần này thành hai phần MacOS và Linux. Nếu bạn sử dụng Unc0ver, vui lòng bỏ qua phần này!
 
-#### 1-1) Cài đặt Checkra1n trên MacOS
+#### 1) Cài đặt Checkra1n trên MacOS
 
 Trên MacOS, tất cả những gì bạn phải làm là mở tệp DMG bạn có được từ trang web Checkra1n và kéo tệp đó vào thư mục Ứng dụng của bạn. Dễ dàng!
 
-#### 1-2) Cài đặt Checkra1n trên Linux
+#### 2) Cài đặt Checkra1n trên Linux
 
 Mở Terminal và chạy các lệnh như sau
 
@@ -129,13 +129,15 @@ Mở Terminal và chạy các lệnh như sau
 
 Cài đặt Unc0ver tương tự cho cả MacOS và Windows.
 
-1. Cài đặt AltServer trên máy tính của bạn bằng cách xem các hướng dẫn tại https://altstore.io/faq
+1. Cài đặt AltServer trên máy tính của bạn bằng cách xem các hướng dẫn tại [đây](https://altstore.io/faq)
 2. Khi AltStore được cài đặt trên thiết bị của bạn, hãy cắm thiết bị vào máy tính
 3. Mở Safari trên thiết bị của bạn và truy cập https://unc0ver.dev và tải xuống phiên bản mới nhất. Nó sẽ tự động lưu vào thư mục tải xuống trong máy của bạn
 4. Mở AltStore trên thiết bị của bạn và đăng nhập
-5. Trên trang "Ứng dụng của tôi", nhấn vào dấu cộng ("+")
-6. Chọn tệp ứng dụng Unc0ver vừa tải xuống
+5. Sang tab "My Apps", nhấn vào dấu cộng ("+")
+6. Chọn tệp Unc0ver.ipa vừa tải xuống
 7. Đợi Unc0ver được cài đặt
+
+**_Có rất nhiều trang chủ Unc0ver giả mạo, trang chủ chính xác là https://unc0ver.dev_**
 
 **_Lưu ý: Cứ sau 7 ngày bạn sẽ phải làm mới một lần để duy trì Unc0ver hoạt động. Bằng cách kết nối điện thoại với máy tính, khởi động AltServer, mở AltStore trên thiết bị và nhấn refresh trong "Ứng dụng của tôi"._**
 
@@ -157,8 +159,6 @@ Cài đặt Unc0ver tương tự cho cả MacOS và Windows.
 
 **_Lưu ý: Bạn sẽ phải làm lại tất cả các bước này mỗi khi thiết bị của bạn khởi động lại để tiếp tục Jailbreak!_**
 
-Bỏ qua phần tiếp theo để biết thông tin về những việc cần làm tiếp theo!
-
 ### 2) Jailbreak trên Unc0ver
 
 1. Đảm bảo thiết bị của bạn được rút khỏi máy tính
@@ -172,7 +172,7 @@ Bỏ qua phần tiếp theo để biết thông tin về những việc cần l�
 9. Mở Cydia để xác minh rằng quá trình Jailbreak đã hoàn tất
 10. Hoàn tất
 
-**_Lưu ý: Bạn sẽ phải mở ứng dụng un0ver và Jailbreak lại mỗi khi thiết bị khởi động lại_**
+**_Lưu ý: Bạn sẽ phải mở ứng dụng Un0ver và re-Jailbreak lại mỗi khi thiết bị khởi động lại_**
 
 ---
 
@@ -180,7 +180,7 @@ Bỏ qua phần tiếp theo để biết thông tin về những việc cần l�
 
 Chúc mừng! Bạn đã hoàn tất quá trình Jailbreak lần đầu tiên của bạn!
 
-* Không được cập nhật phiên bản iOS của bạn mà không xóa bỏ bản Jailbreak của bạn trước! (xem phần IX hướng dẫn gỡ bỏ Jailbreak)
+* Không được cập nhật phiên bản iOS của bạn mà không xóa bỏ bản Jailbreak của bạn trước! (đọc phần IX)
 
 * Với Unc0ver: hãy nhớ làm mới ứng dụng của bạn sau mỗi 7 ngày một lần!
 
@@ -232,17 +232,17 @@ https://repo.pixelomer.com/ MobileGoose có con vịt chạy khắp màn hình
 
 https://cokepokes.github.io/ AppStore++ tăng/hạ cấp ứng dụng trong App Store
 
-https://cydia.akemi.ai/ AppSync Unified cài đặt file IPA không được đăng kí 
+https://cydia.akemi.ai/ AppSync Unified cài đặt file .IPA không được đăng kí 
 
 https://rpetri.ch/repo/ một trong những Repos không thể thiếu như AppList, RocketBootstrap, Activator...
 
 https://repo.dynastic.co/ có những Tweaks và Theme cực xịn
 
-https://alexpng.github.io/ cách tinh chỉnh đổi hình nên theo giao diện Sáng và Tồi
+https://alexpng.github.io/ cách tinh chỉnh đổi hình nên theo giao diện Sáng và Tối
 
 https://repo.packix.com/ có những Tweaks và Theme cực xịn
 
-https://ib-soft.net/cydia/beta/ iCleaner Pro quét rác, temp, tập tin dư thừa trong máy
+https://ib-soft.net/cydia/beta/ iCleaner Pro quét rác, temp, tệp tin thừa trong máy
 
 https://skitty.xyz/repo/ Six (LS) màn hình khóa iOS 6 và một vài tinh tỉnh cũng hay ho
 
@@ -260,29 +260,28 @@ https://cydiageek.yourepo.com/ có các tinh chỉnh nhỏ
 
 http://repo.litten.love/ một trong Repos tôi yêu thích
 
-
-**Khả năng tương thích các tweak khác nhau tùy theo thiết bị và phiên bản iOS. Đặc biệt là với iPad_**
+**_Khả năng tương thích các tweak khác nhau tùy theo thiết bị và phiên bản iOS. Đặc biệt là với iPad_**
 
 ## Phần IX: Gỡ bỏ Jailbreak của bạn một cách an toàn
 
 ### 1) Xóa bản Jailbreak đối với Checkra1n
 
-1. Hãy chắc chắn rằng bạn đã Jailbreak bằng má tính và có Checkra1n trong máy
+1. Hãy chắc chắn rằng bạn đã Jailbreak bằng máy tính và có Checkra1n trong màn hình chính
 2. Mở Checkra1n trong màn hình chính của bạn
 3. Nhấn nút Restore System
 4. Đợi quá trình hoàn tất
 5. Thiết bị của bạn sẽ tự khởi động lại
 6. Hoàn tất
 
-### 2) Loại bỏ jailbreak đối với Un0ver
+### 2) Loại bỏ Jailbreak đối với Un0ver
 
 1. Khởi động lại để vào lại trạng thái không Jailbreak
 2. Mở ứng dụng Unc0ver
 3. Nhấn vào biểu tượng cài đặt
 4. Bật dòng "Restore RootFS"
 5. Quay trở lại màn hình Jailbreak
-6. Nhấn nút "Restore RootFS" ở phía dưới
-7. Một thông báo sẽ hiện lên The filesystem will be restored. Allow this and continue.
+6. Nhấn nút "Re-Jailbreak" ở phía dưới
+7. Một thông báo sẽ hiện lên The filesystem will be restored. Allow this and continue. Hãy bấm OK.
 8. Khi quá trình hoàn tất, bạn sẽ được yêu cầu khởi động lại thiết bị của mình. Hãy bấm OK.
 9. Sau khi thiết bị đã được khởi động lại, hãy xóa các ứng dụng Unc0ver và AltStore.
 
@@ -290,9 +289,9 @@ http://repo.litten.love/ một trong Repos tôi yêu thích
 
 ### 1) Nếu điện thoại của bạn gặp phải vấn đề do Jailbreak
 
-**_Hướng dẫn Restore cho thiết bị của bạn về nguyên trạng như ban đầu_**
+**_Hướng dẫn Restore thiết bị của bạn về nguyên trạng như ban đầu_**
 
-1. Trên máy tính cài đặt iTunes và [3uTools](http://www.3u.com/)
+1. Trên máy tính cài đặt [iTunes](https://www.apple.com/itunes) và [3uTools](http://www.3u.com/)
 2. Mở 3uTools và kết nối thiết bị với máy tính
 3. Cho phép Tin cậy trên thiết bị của bạn và nhập mật khẩu (nếu có)
 4. Trong 3uTools chuyển sang tab Flash & JB
@@ -310,7 +309,7 @@ http://repo.litten.love/ một trong Repos tôi yêu thích
 
 Thực hiện theo các cách Restore như trên nếu điện thoại vẫn có khả năng sử dụng được cảm ứng, cổng kết nối và các chức năng không ảnh hưởng quá trình Restore.
 
-Nếu bạn gửi thiết bị của bạn đến trung tâm bản hành như Apple, FPT, TGDĐ các Chuyên gia sửa chữa có thể phát hiện thiết bị của bạn đã được Jailbreak họ có thể sửa chữa nó nhưng bạn có thể phải trả phí bảo hành.
+Nếu bạn gửi thiết bị của bạn đến trung tâm bản hành như Apple, FPT, TGDĐ các Chuyên gia sửa chữa có thể phát hiện thiết bị của bạn đã được Jailbreak, họ có thể sửa chữa nó nhưng bạn có thể phải trả phí bảo hành.
 
 ## Phần XI: Kết thúc
 
@@ -318,6 +317,8 @@ Nếu bạn đọc tất cả những điều này, rất vui bạn đã dành t
 
 Bạn gặp các vấn đề về Jailbreak. Đừng lo lắng, hãy nói tôi biết điều đó, tôi có thể giúp bạn trong khả năng mà tôi có thể làm. À mà r/Jailbreak cũng là lựa chọn tốt đấy.
 
-Để tìm hiểu thêm về các tweaks và theems , hãy xem r/iOSTheme trên Reddit.
+Để tìm hiểu thêm về các tweaks và themes , hãy xem r/iOSTheme trên Reddit.
 
-> Nguyễn Thiện Hoàn
+> Written with ❤️ by iTer99 Dev
+
+> Và chân thành cảm ơn Anden Wieseler
