@@ -123,7 +123,7 @@ Mở Terminal và chạy các lệnh như sau
 
 `sudo apt update` để làm mới danh sách gói của bạn.
 
-`sudo apt install checkra1n` để cài đặt ứng dụng Checkra1n.
+`sudo apt install checkra1n` để cài đặt Checkra1n.
 
 ### 2) Cài đặt Unc0ver
 
