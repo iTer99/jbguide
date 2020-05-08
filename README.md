@@ -190,7 +190,7 @@ Chúc mừng! Bạn đã hoàn tất quá trình Jailbreak lần đầu tiên c�
 
 ## Phần VIII: Làm gì tiếp theo
 
-### 1) Repos, Tweaks và Themes
+### Repos, Tweaks và Themes
 
 **Để thêm nguồn vào Cydia:**
 
