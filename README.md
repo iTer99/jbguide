@@ -186,6 +186,8 @@ Chúc mừng! Bạn đã hoàn tất quá trình Jailbreak lần đầu tiên c�
 
 * Hãy nhớ áp dụng lại Jailbreak của bạn sau mỗi lần khởi động lại!
 
+---
+
 ## Phần VIII: Làm gì tiếp theo
 
 ### 1) Repos, Tweaks và Themes
@@ -262,6 +264,8 @@ http://repo.litten.love/ một trong Repos tôi yêu thích
 
 **_Khả năng tương thích các tweak khác nhau tùy theo thiết bị và phiên bản iOS. Đặc biệt là với iPad_**
 
+---
+
 ## Phần IX: Gỡ bỏ Jailbreak của bạn một cách an toàn
 
 ### 1) Xóa bản Jailbreak đối với Checkra1n
@@ -284,6 +288,8 @@ http://repo.litten.love/ một trong Repos tôi yêu thích
 7. Một thông báo sẽ hiện lên The filesystem will be restored. Allow this and continue. Hãy bấm OK.
 8. Khi quá trình hoàn tất, bạn sẽ được yêu cầu khởi động lại thiết bị của mình. Hãy bấm OK.
 9. Sau khi thiết bị đã được khởi động lại, hãy xóa các ứng dụng Unc0ver và AltStore.
+
+---
 
 ## Phần X: Làm gì nếu điện thoại bạn gặp vấn đề hoặc cần bảo hành
 
@@ -310,6 +316,8 @@ http://repo.litten.love/ một trong Repos tôi yêu thích
 Thực hiện theo các cách Restore như trên nếu điện thoại vẫn có khả năng sử dụng được cảm ứng, cổng kết nối và các chức năng không ảnh hưởng quá trình Restore.
 
 Nếu bạn gửi thiết bị của bạn đến trung tâm bản hành như Apple, FPT, TGDĐ các Chuyên gia sửa chữa có thể phát hiện thiết bị của bạn đã được Jailbreak, họ có thể sửa chữa nó nhưng bạn có thể phải trả phí bảo hành.
+
+---
 
 ## Phần XI: Kết thúc
 
