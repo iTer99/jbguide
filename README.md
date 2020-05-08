@@ -21,7 +21,7 @@ Jailbreak dựa trên các lỗ hổng khai được tìm thấy bởi các nhà
 
 ### 2) Mục đích của việc Jailbreak ?
 
-Jailbreak iOS có nhiều mục đích khác nhau. Tùy vào người muốn Jailbreak để làm gì. Phần lớn, người dùng Jailbreak thiết bị của họ để tùy chỉnh những tính năng mà iOS không cho phép. Thực tế, đã có nhiều tinh chỉnh Jailbreak trở thành ý tưởng cho các bản cập nhật iOS và iPadOS mới hơn (mặc dù Apple không thừa nhận điều đó).
+Jailbreak iOS có nhiều mục đích khác nhau. Tùy vào cá nhân muốn Jailbreak để làm gì. Phần lớn, người dùng Jailbreak thiết bị của họ để tùy chỉnh những tính năng mà iOS không cho phép. Thực tế, đã có nhiều tinh chỉnh Jailbreak trở thành ý tưởng cho các bản cập nhật iOS và iPadOS mới hơn (mặc dù Apple không thừa nhận điều đó).
 
 ### 3) Jailbreak có an toàn không ?
 
