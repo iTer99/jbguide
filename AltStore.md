@@ -22,7 +22,7 @@
 
 - Tải xuống phiên bản iTunes tại [đây](https://www.apple.com/itunes/)
 - Tải xuống phiên bản iCloud tại [đây](https://support.apple.com/en-us/HT20428/)
-_Lưu ý: Chắc chắn bạn cài đặt phiên bản .exe không phải phiên bản trên Microsoft Store_
+*_Lưu ý: Chắc chắn bạn cài đặt phiên bản .exe không phải phiên bản trên Microsoft Store_*
 
 ### 2. Cài đặt:
 
