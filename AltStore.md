@@ -35,6 +35,6 @@ _Lưu ý: Chắc chắn bạn cài đặt phiên bản .exe không phải phiên
 7) Đăng nhập ID Apple của bạn và mã xác minh nếu có.
 8) Chờ AltStore được cài đặt hoàn tất.
 
-<img src="https://i.imgur.com/8v0FOBA.png" alt="iTer99" width="300" height="300">
-<img src="https://i.imgur.com/sd57nfk.png" alt="iTer99" width="300" height="300">
-<img src="https://i.imgur.com/lLSIBJS.png" alt="iTer99" width="300" height="300">
+<img src="https://i.imgur.com/8v0FOBA.png" alt="1">
+<img src="https://i.imgur.com/sd57nfk.png" alt="2">
+<img src="https://i.imgur.com/lLSIBJS.png" alt="3">
