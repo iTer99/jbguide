@@ -130,12 +130,11 @@ Mở Terminal và chạy các lệnh như sau
 Cài đặt Unc0ver tương tự cho cả MacOS và Windows.
 
 1. Cài đặt AltServer trên máy tính của bạn bằng cách xem các hướng dẫn tại [đây](https://altstore.io/faq)
-2. Khi AltStore được cài đặt trên thiết bị của bạn, hãy cắm thiết bị vào máy tính
-3. Mở Safari trên thiết bị của bạn và truy cập https://unc0ver.dev và tải xuống phiên bản mới nhất. Nó sẽ tự động lưu vào thư mục tải xuống trong máy của bạn
-4. Mở AltStore trên thiết bị của bạn và đăng nhập
-5. Sang tab "My Apps", nhấn vào dấu cộng ("+")
-6. Chọn tệp Unc0ver.ipa vừa tải xuống
-7. Đợi Unc0ver được cài đặt
+2. Mở Safari trên thiết bị của bạn và truy cập https://unc0ver.dev và tải xuống phiên bản mới nhất. Chọn vị trí lưu vào máy thông thường là thư mục Downloads
+3. Mở AltStore trên thiết bị chọn sang tab Settings và Login id apple của bạn vào đó
+4. Sang tab My Apps, nhấn vào dấu cộng + phía trên bên trái
+5. Đi đến vị trí tệp Unc0ver.ipa mà bạn vừa tải xuống
+6. Đợi Unc0ver được cài đặt hoàn tất
 
 **_Có rất nhiều trang chủ Unc0ver giả mạo, trang chủ chính xác là https://unc0ver.dev_**
 
