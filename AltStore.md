@@ -28,7 +28,7 @@
 ### 2. Cài đặt:
 
 1) Tải xuống [AltServer](https://altstore.io/) cho Windows.
-2) Giải nén tập tin Tải về Alt Altstallstall.zip.
+2) Giải nén tập tin Tải về altinstaller.zip
 3) Chạy cài đặt setup.exe, sau đó làm theo hướng dẫn cài đặt.
 4) Sử dụng phím Window và tìm AltServer.
 5) Tin tưởng thiết bị với máy tính.
