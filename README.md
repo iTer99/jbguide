@@ -1,7 +1,7 @@
 # Hướng dẫn Jailbreak cho người mới bắt đầu
 
 **Lưu ý trước khi bạn bắt đầu:**
-* **_Nếu đây là lần đầu tiên bạn Jailbreak, hãy đảm bảo thực hiện theo hướng dẫn này một cách thật chính xác để ngăn các sự cố có thể xãy ra**
+* **_Nếu đây là lần đầu tiên bạn Jailbreak, hãy đảm bảo thực hiện theo hướng dẫn này một cách thật chính xác để ngăn các sự cố có thể xãy ra_**
 * **_Nếu bạn Jailbreak điện thoại, tôi không chắc thiết bị của bạn sẽ mất bảo hành (hãy đọc phần X)_**
 * **_Tôi không chịu trách nhiệm cho bất kỳ vấn đề phát sinh từ việc Jailbreak thiết bị của bạn. Thiết bị của bạn là trách nhiệm của bạn. Nhưng tôi có thể hỗ trợ trong khả năng mà tôi có thể giúp đỡ bạn_**
 
