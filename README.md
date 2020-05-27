@@ -1,12 +1,8 @@
 # Hướng dẫn Jailbreak cho người mới bắt đầu
 
-> Biên soạn bởi [Anden Wieseler](https://github.com/JoeMcRainbow)
-
-> Phiên dịch và chỉnh sửa bởi [Nguyễn Thiện Hoàn](https://github.com/iTer99)
-
 **Lưu ý trước khi bạn bắt đầu:**
-* **_Nếu đây là lần đầu tiên bạn Jailbreak, hãy đảm bảo thực hiện theo hướng dẫn này một cách thật chính xác để ngăn các sự cố có thể phát sinh_**
-* **_Nếu bạn Jailbreak điện thoại, tôi không chắc sẽ mất bảo hành (hãy đọc phần X)_**
+* **_Nếu đây là lần đầu tiên bạn Jailbreak, hãy đảm bảo thực hiện theo hướng dẫn này một cách thật chính xác để ngăn các sự cố có thể xãy ra**
+* **_Nếu bạn Jailbreak điện thoại, tôi không chắc thiết bị của bạn sẽ mất bảo hành (hãy đọc phần X)_**
 * **_Tôi không chịu trách nhiệm cho bất kỳ vấn đề phát sinh từ việc Jailbreak thiết bị của bạn. Thiết bị của bạn là trách nhiệm của bạn. Nhưng tôi có thể hỗ trợ trong khả năng mà tôi có thể giúp đỡ bạn_**
 
 ---
@@ -25,9 +21,9 @@ Jailbreak iOS có nhiều mục đích khác nhau. Tùy vào cá nhân muốn Ja
 
 ### 3) Jailbreak có an toàn không ?
 
-Jailbreak một thiết bị iOS cơ bản là nó vẫn an toàn. Những gì bạn làm sau khi Jailbreak sẽ xác định xem thiết bị của bạn có còn an toàn không. Thông thường người dùng Jailbreak chỉ là cài đặt những Repos và những bản Tweaks đáng tin cậy. Quản lí truy xuất tệp tin trong hệ thống của máy. Mở một thế giới trong môi trường iOS cũng giống như cách mà Android và Windows cho phép. Jailbreak hoàn toàn không ảnh hưởng đến Dịch vụ vị trí GPS, tìm và định vị iPhone của bạn, mật khẩu, Touch ID hay Face ID và những chức năng khác của máy. Nên nó vẫn giữ được an toàn theo cách mà iOS đã làm.
+Jailbreak một thiết bị iOS cơ bản là nó vẫn an toàn. Những gì bạn làm sau khi Jailbreak sẽ quyết định thiết bị của bạn có còn an toàn không. Thông thường người dùng Jailbreak chỉ cài đặt những Repos và những bản Tweaks đáng tin cậy. Quản lí truy xuất tệp tin trong hệ thống của máy. Mở ra một môi trường cho iOS cũng giống như cách mà Android và Windows cho phép. Jailbreak hoàn toàn không ảnh hưởng đến Dịch vụ vị trí GPS, Tìm và Định vị iPhone của bạn, mật khẩu, Touch ID hay Face ID và những chức năng khác của máy. Nên nó vẫn giữ được an toàn theo cách mà iOS đã làm.
 
-Và cũng vì một vài lí do những bản Jailbreak chỉ có trên những phiên bản iOS cũ hơn và cũng gặp phải các vần đề hệ thống khiến người khác có thể lạm dụng vào nó mà phá hoại thiết bị của bạn. Thời điểm tôi viết thứ này cách đây chưa đầy một tuần, [lỗi kí tự lạ](https://www.thegioididong.com/tin-tuc/xuat-hien-ky-tu-la-khien-iphone-bi-te-liet-1251760) khiến thiết bị của bạn bị treo, crash ứng dụng nguy hiểm hơn là tự động khởi động lại máy thì các Developer Jailbreak cũng đã ra tinh chỉnh để sửa chữa nó xem tại [đây](https://www.reddit.com/r/jailbreak/comments/g6rpb8/release_capturetheflag_stop_italian_flag_emoji/). Một lỗi khác có tên [Youve got 0 Click Mail](https://blog.zecops.com/vulnerabilities/youve-got-0-click-mail/) còn gọi là Zero Day cho phép Hacker xâm nhập thiết bị thông qua điều khiển từ xa, theo dõi và đánh cắp dữ liệu trong thiết bị mà không cần phải mở Mail. Đặc biệt lỗi đã có từ iOS 6 và phải đến tận iOS 13.4.5 Apple mới sửa lỗi này và [đây](https://www.reddit.com/r/jailbreak/comments/g86cfm/releasemailmend_a_patch_for_mail_vulnerability_by/) là cách tạm thời để sửa lỗi đó nếu thiết bị của bạn đã Jailbreak. Có thể thấy rằng mục đích Jailbreak cũng không đúng và cũng không sai nên bạn hãy cứ yên tâm nhé.
+Và cũng vì một vài lí do những bản Jailbreak chỉ có trên những phiên bản iOS cũ hơn và cũng gặp phải các vần đề hệ thống khiến người khác có thể lạm dụng vào nó mà phá hoại thiết bị của bạn. Thời điểm tôi viết thứ này cách đây chưa đầy một tuần, [lỗi kí tự lạ](https://www.thegioididong.com/tin-tuc/xuat-hien-ky-tu-la-khien-iphone-bi-te-liet-1251760) khiến thiết bị của bạn bị treo, crash ứng dụng nguy hiểm hơn là tự động khởi động lại máy thì các Developer Jailbreak cũng đã ra tinh chỉnh để sửa chữa nó xem tại [đây](https://www.reddit.com/r/jailbreak/comments/g6rpb8/release_capturetheflag_stop_italian_flag_emoji/). Một lỗi khác có tên [Youve got 0 Click Mail](https://blog.zecops.com/vulnerabilities/youve-got-0-click-mail/) còn gọi là Zero Day Mail cho phép Hacker xâm nhập thiết bị thông qua điều khiển từ xa, theo dõi và đánh cắp dữ liệu trong thiết bị mà không cần phải mở Mail. Đặc biệt lỗi đã có từ iOS 6 và phải đến tận iOS 13.4.5 Apple mới sửa lỗi này và [đây](https://www.reddit.com/r/jailbreak/comments/g86cfm/releasemailmend_a_patch_for_mail_vulnerability_by/) là cách tạm thời để sửa lỗi đó nếu thiết bị của bạn đã Jailbreak. Có thể thấy rằng mục đích Jailbreak cũng không đúng và cũng không sai nên bạn hãy cứ yên tâm nhé.
 
 ### 4) Jailbreak có hợp pháp không ?
 
@@ -318,14 +314,26 @@ Nếu bạn gửi thiết bị của bạn đến trung tâm bản hành như Ap
 
 ---
 
-## Phần XI: Kết thúc
+## Phần XI: Các câu hỏi thường gặp
 
-Nếu bạn đọc tất cả những điều này, rất vui bạn đã dành thời gian để tìm hiểu về Jailbreak!
+### 1) Tôi có thế cài đặt Checkra1n trên VituralBox hay WSL không ?
+    - Bạn không thể cài đặt trên VituralBox hay WSL vì một số vấn đề về nhận diện cổng USB.
+    
+### 2) Tôi có thể cài đặt song song Checkra1n với Unc0ver không ?
+    - Đừng, bạn tốt nhất đừng nên làm điều đó nếu không muốn thiết bị của bạn gặp phải nhiều vấn đề có tính chất nguy hiểm.
 
-Bạn gặp các vấn đề về Jailbreak. Đừng lo lắng, hãy nói tôi biết điều đó, tôi có thể giúp bạn trong khả năng mà tôi có thể làm. À mà r/Jailbreak cũng là lựa chọn tốt đấy.
+### 3) Ngoài phải sử dụng Checkra1n với Unc0ver có còn cách nào khác để Jailbreak nữa không ?
+    - Với các phiên bản iOS hiện tại (iOS 13), Checkra1n với Unc0ver là 2 công cụ Jailbreak mà chúng ta đang có.
+    
+### 4) ...
+    - ...
 
-Để tìm hiểu thêm về các tweaks và themes , hãy xem r/iOSTheme trên Reddit.
+## Thêm:
 
-> Written with ❤️ by iTer99 Dev
+Bạn gặp các vấn đề về Jailbreak. Đừng lo lắng, hãy nói tôi biết điều đó, tôi có thể giúp bạn trong khả năng mà tôi có thể. À hãy tìm trên Reddit r/jailbreak [HELP]i have problem...  là lựa chọn tốt đấy.
 
-> Và chân thành cảm ơn Anden Wieseler
+Để tìm hiểu thêm về các Tweaks và Themes , hãy xem r/iOSTheme trên Reddit.
+
+> Written with ❤️ by _iTer99_
+
+> Chân thành cảm ơn _Anden Wieseler_
