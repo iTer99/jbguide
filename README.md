@@ -1,4 +1,5 @@
 # Hướng dẫn Jailbreak cho người mới bắt đầu
+(last update 27/05/2020)
 
 **Lưu ý trước khi bạn bắt đầu:**
 * **_Nếu đây là lần đầu tiên bạn Jailbreak, hãy đảm bảo thực hiện theo hướng dẫn này một cách thật chính xác để ngăn các sự cố có thể xãy ra_**
